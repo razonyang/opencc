@@ -21,11 +21,6 @@
   }, {
     "dict": {
       "type": "txt",
-      "file": "TWPhrases.txt"
-    }
-  }, {
-    "dict": {
-      "type": "txt",
       "file": "TWVariants.txt"
     }
   }]
